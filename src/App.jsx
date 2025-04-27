@@ -1,4 +1,4 @@
-import './App.js'
+/*import './App.js'*/
 import './App.css'
 import { FiAlignJustify } from "react-icons/fi";
 import { GoArrowDown } from "react-icons/go";
